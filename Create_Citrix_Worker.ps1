@@ -20,4 +20,4 @@ Set-SCVirtualNetworkAdapter -VirtualNetworkAdapter $VirtualNetworkAdapter -VMNet
 
 # testar att editerat med git hub
 
-#lägger till en rad till
+#lägger till en rad till  asdasa

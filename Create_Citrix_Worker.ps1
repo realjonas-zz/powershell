@@ -18,4 +18,6 @@ $VMNetwork = Get-SCVMNetwork -VMMServer fascvm01 -Name "Citrix (VLAN1178)"
 Set-SCVirtualNetworkAdapter -VirtualNetworkAdapter $VirtualNetworkAdapter -VMNetwork $VMNetwork -VLanEnabled $true -VLanID 1178 -VirtualNetwork "UplinkSwitch" -MACAddress "00:00:00:00:00:00" -MACAddressType Static -IPv4AddressType Dynamic -IPv6AddressType Dynamic -NoPortClassification
 
 
-# testae GIt
+# testar att editerat med git hub
+
+#lägger till en rad till
